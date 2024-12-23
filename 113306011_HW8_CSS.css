@@ -1,0 +1,22 @@
+body{
+	text-align: center;
+	font-family: Arial;
+	font-weight: bold;
+
+}
+.t{
+	width: 150px;
+	height: 20px;
+}
+.s{
+	width: 150px;
+	height: 20px;
+}
+.b{
+	width: 150px;
+	height: 20px;
+	background-color: brown;
+	border: none;
+	border-radius: 5px 5px 5px 5px ;
+	color: white;
+}
